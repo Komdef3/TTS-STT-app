@@ -1,4 +1,4 @@
-# TTS-STT-app
+# TTS-STT-app: "Talkatif"
 IMPROVING THE AVAILABILITY AND EFFECTIVENESS OF ACCESSIBILITY AND COMMUNICATION
 Talkatif is a web application built using the  Javascript technology incorporated with  Amazon services. 
 The application was  designed to convert text to speech and speech to text to enhance  accessibility and communication efficiency.
